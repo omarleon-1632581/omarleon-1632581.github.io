@@ -3,6 +3,16 @@ body {
 }
 
 h1 {
-    color: navy;
-    margin-left: 20px;
+    color: green;
+	text-align:center;
 }
+.img-with-text  {
+	text-align: justify;
+	width: 200px;
+}
+.img-with-text  {
+	display: block;
+	margin: 0 auto;
+}
+
+	
