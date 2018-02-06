@@ -146,24 +146,24 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: none; }
 
 h1 {
-  font-size: 3rem;
-  line-height: 1.2; }
+  font-size: 3.25rem;
+  line-height: 1.3; }
 
 h2 {
   font-size: 2.5rem;
   line-height: 1.5; }
 
 h3 {
-  font-size: 1.25rem; }
+  font-size: 1.5rem; }
 
 h4 {
-  font-size: 1rem; }
+  font-size: 1.25rem; }
 
 h5 {
-  font-size: 0.9rem; }
+  font-size: 1.1rem; }
 
 h6 {
-  font-size: 0.7rem; }
+  font-size: 0.9rem; }
 
 @media screen and (max-width: 736px) {
   h1 {
@@ -2818,5 +2818,5 @@ body.is-menu-visible #menu {
   -webkit-transform: translateX(0);
   -ms-transform: translateX(0);
   transform: translateX(0);
-  box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 2.5rem 0 rgba(0, 0, 0, 0.2);
   visibility: visible; }
