@@ -1,5 +1,5 @@
 #Header{
-	border:solid 8px black;
+	border:solid 12px black;
 	width: 500px;
 	margin-left: auto;
 	margin-right: auto;
@@ -8,7 +8,7 @@
 	
 }
 #LeftNav{
-	border: solid 8px black;
+	border: solid 12px black;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 10px;
@@ -20,14 +20,14 @@
 #Content{
 	margin-left: auto;
 	margin-right: auto;
-	border: solid 8px black;
+	border: solid 12px black;
 	border-radius: 25px;
 	width: 700px;
 	margin-bottom: 10px;
 	text-align: center;
 }
 #Footer{
-	border: solid 8px black;
+	border: solid 12px black;
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
