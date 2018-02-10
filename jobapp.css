@@ -57,6 +57,13 @@ h1{
 	font-weight: bold;
 	font-style: oblique;
 }
+h2{
+	font-family: "Passion One";
+	font-size: 60px;
+	color: #FFBC00;
+	font-weight: bold;
+	font-style: oblique;
+}
 legend{
 	font-size: 60px;
 	color: #FFBC00;
