@@ -64,6 +64,11 @@ legend{
 	font-style: oblique;
 	
 }
+fieldset{
+	font-weight: bold;
+	font-style: oblique;
+	color: #FFBC00
+}
 h3{
 	font-family: "Passion One";
 	font-size: 40px;
